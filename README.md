@@ -63,6 +63,8 @@ Configura los datos de tu empresa para personalizar tus presupuestos
 Acerca del Sistema
 <img width="558" height="552" alt="image" src="https://github.com/user-attachments/assets/d38e0a3b-b1ed-4d97-8cab-45b906d7d6a0" />
 
+
+
 Información sobre la aplicación y sus desarrolladores
 
 🛠️ Tecnologías Utilizadas
