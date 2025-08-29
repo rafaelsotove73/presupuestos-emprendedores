@@ -1,4 +1,4 @@
-🚀 Presupuesto Zen: Tu Herramienta Esencial de Gestión
+<span style="font-size: 32px; font-weight: bold;">🚀 Presupuesto Zen: Tu Herramienta Esencial de Gestión</span>
 💡 Sobre este Proyecto
 Presupuesto Zen es una aplicación de escritorio intuitiva y robusta, diseñada específicamente para emprendedores, freelancers y pequeños negocios que buscan optimizar la gestión de sus cotizaciones y proyectos. Desarrollada con Python, CustomTkinter y SQLite, esta herramienta te permite controlar eficientemente clientes, materiales y servicios para generar presupuestos profesionales de forma rápida y sencilla.
 
